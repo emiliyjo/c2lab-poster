@@ -40,8 +40,8 @@ body {
   width: 204px;
   color: rgba(241,217,0,1);
   position: absolute;
-  top: 695px;
-  left: 820px;
+  top: 720px;
+  left: 890px;
   font-family: Courier;
   font-weight: Regular;
   font-size: 15px;
@@ -52,8 +52,8 @@ body {
   width: 204px;
   color: rgba(241,217,0,1);
   position: absolute;
-  top: 611px;
-  left: 715px;
+  top: 650px;
+  left: 710px;
   font-family: Courier;
   font-weight: Regular;
   font-size: 15px;
@@ -77,7 +77,7 @@ body {
   color: rgba(241,217,0,1);
   position: absolute;
   top: 309px;
-  left: 831px;
+  left: 840px;
   font-family: Courier;
   font-weight: Regular;
   font-size: 16px;
@@ -166,9 +166,8 @@ body {
   position: absolute;
   top: 519px;
   left: 815px;
-  font-family: Some's Style;
-  font-weight: Straight out of Sweden;
+  font-family: 'someswebfont'
+  src: url('./fonts/someswebfont.woff') format('woff')
   font-size: 16px;
-  opacity: 1;
   text-align: left;
-}
+ }
