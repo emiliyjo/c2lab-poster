@@ -9,9 +9,6 @@
 body {
   font-size: 14px;
 }
-.somes{
-font-family : 'Somes',
-}
 
 .v1_2 {
   width: 100%;
@@ -101,7 +98,7 @@ font-family : 'Somes',
   left: 817px;
   font-size: 64px;
   opacity: 1;
-  font-family:'Somes'
+  font-family:'Somes';
   text-align: left;
 }
 .v1_6 {
