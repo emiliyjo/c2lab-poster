@@ -1,0 +1,174 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v1_2 {
+  width: 100%;
+  height: 982px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_3 {
+  width: 501px;
+  height: 659px;
+  background: rgba(129,12,12,1);
+  opacity: 1;
+  position: absolute;
+  top: 155px;
+  left: 658px;
+  overflow: hidden;
+}
+.v1_11 {
+  width: 228px;
+  color: rgba(241,217,0,1);
+  position: absolute;
+  top: 572px;
+  left: 820px;
+  font-family: Courier;
+  font-weight: Regular;
+  font-size: 15px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_10 {
+  width: 204px;
+  color: rgba(241,217,0,1);
+  position: absolute;
+  top: 695px;
+  left: 820px;
+  font-family: Courier;
+  font-weight: Regular;
+  font-size: 15px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_9 {
+  width: 204px;
+  color: rgba(241,217,0,1);
+  position: absolute;
+  top: 611px;
+  left: 715px;
+  font-family: Courier;
+  font-weight: Regular;
+  font-size: 15px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_8 {
+  width: 204px;
+  color: rgba(241,217,0,1);
+  position: absolute;
+  top: 376px;
+  left: 727px;
+  font-family: Courier;
+  font-weight: Regular;
+  font-size: 15px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_7 {
+  width: 180px;
+  color: rgba(241,217,0,1);
+  position: absolute;
+  top: 309px;
+  left: 831px;
+  font-family: Courier;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_4 {
+  width: 207px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 442px;
+  left: 817px;
+  font-family: Some's Style;
+  font-weight: Straight out of Sweden;
+  font-size: 64px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_6 {
+  width: 146px;
+  color: rgba(241,217,0,1);
+  position: absolute;
+  top: 224px;
+  left: 725px;
+  font-family: Courier;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_12 {
+  width: 227px;
+  height: 268px;
+  background: url("../images/v1_12.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 30px;
+  left: 140px;
+  overflow: hidden;
+}
+.v1_14 {
+  width: 227px;
+  height: 220px;
+  background: url("../images/v1_14.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 299px;
+  left: 140px;
+  overflow: hidden;
+}
+.v1_15 {
+  width: 227px;
+  height: 289px;
+  background: url("../images/v1_15.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 870px;
+  left: 138px;
+  overflow: hidden;
+}
+.v1_16 {
+  width: 227px;
+  height: 238px;
+  background: url("../images/v1_16.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 582px;
+  left: 140px;
+  overflow: hidden;
+}
+.v1_17 {
+  width: 97px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 519px;
+  left: 815px;
+  font-family: Some's Style;
+  font-weight: Straight out of Sweden;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
