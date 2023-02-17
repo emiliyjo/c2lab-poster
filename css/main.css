@@ -1,9 +1,18 @@
+@font-face {
+  font-family: 'Somes';
+  src: url('./fonts/someswebfont.woff') format('woff');
+}
+
 * {
   box-sizing: border-box;
 }
 body {
   font-size: 14px;
 }
+.somes{
+font-family : 'Somes',
+}
+
 .v1_2 {
   width: 100%;
   height: 982px;
@@ -90,8 +99,6 @@ body {
   position: absolute;
   top: 442px;
   left: 817px;
-  font-family: Some's Style;
-  font-weight: Straight out of Sweden;
   font-size: 64px;
   opacity: 1;
   text-align: left;
@@ -103,7 +110,7 @@ body {
   top: 224px;
   left: 725px;
   font-family: Courier;
-  font-weight: Regular;
+  font-weight: normal;
   font-size: 16px;
   opacity: 1;
   text-align: left;
@@ -166,8 +173,7 @@ body {
   position: absolute;
   top: 519px;
   left: 815px;
-  font-family: 'someswebfont'
-  src: url('./fonts/someswebfont.woff') format('woff')
+  font-family: 'Somes';
   font-size: 16px;
   text-align: left;
  }
